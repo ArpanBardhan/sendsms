@@ -167,6 +167,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 ![pic1](https://github.com/ArpanBardhan/sendsms/assets/119405037/e3577790-bf2b-403b-b908-d7310fc49b49)
+
 ![pic2](https://github.com/ArpanBardhan/sendsms/assets/119405037/b6805509-9d9d-429b-aa00-a53ac38c1e20)
 
 
